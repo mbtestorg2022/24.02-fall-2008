@@ -26,11 +26,48 @@ Grading
 
 All written exercises (except those completed in class) must be typed or word-processed. Please keep a copy of all work you turn in. Late work will be accepted only under exceptional circumstances, and will be penalized unless an extension is granted **in advance**. The instructor reserves the right to fail any student in the course who fails to perform at a passing level in any of the grading areas listed above; so, for example, attendance at recitation is required and consistent failure to attend will result in an F for the course.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Recitation | 20% |
-| Three (5 page) papers | 60% |
-| Final exam | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Three (5 page) papers
+{{< tdclose >}}
+{{< tdopen >}}
+60%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Recitation Grade
 
