@@ -306,7 +306,7 @@ Addressing structural injustice
 {{< tdopen >}}
 
 
-Pogge, Thomas. "Eradicating Systematic Poverty: Brief for a Global Resources Dividend." _Journal of Human Development_ 2, no. 1 (2001): 59-77. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://socialsciences.scielo.org/scielo.php?script=sci_abstract&pid=S1806-64452007000100007))
+Pogge, Thomas. "Eradicating Systematic Poverty: Brief for a Global Resources Dividend." _Journal of Human Development_ 2, no. 1 (2001): 59-77. ([PDF](http://socialsciences.scielo.org/scielo.php?script=sci_abstract&pid=S1806-64452007000100007))
 
 ### Recommended
 
