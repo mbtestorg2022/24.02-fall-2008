@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on hate speech, free speech, and the regulation of speech.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/24-02-moral-problems-and-the-good-life-fall-2008/48e3bf03d27a795738cebabd703f68cb_lec_19.pdf
 file_type: application/pdf
+parent_uid: 0eb98e43-b1fd-4284-a395-ce1b1767bd8d
 resourcetype: Document
 title: Hate Speech and Free Speech
 uid: 48e3bf03-d27a-7957-38ce-babd703f68cb

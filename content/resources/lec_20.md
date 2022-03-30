@@ -5,6 +5,7 @@ description: 'Lecture notes on arguments for free speech, pornography, feminist 
   upholding negative liberty (Dworkin).'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/24-02-moral-problems-and-the-good-life-fall-2008/e1b1554795e68696098f6590ef4d3ce6_lec_20.pdf
 file_type: application/pdf
+parent_uid: 0eb98e43-b1fd-4284-a395-ce1b1767bd8d
 resourcetype: Document
 title: Free Speech and Pornography
 uid: e1b15547-95e6-8696-098f-6590ef4d3ce6
